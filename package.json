@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@types/set-tz": "^0.2.0",
+    "async-file": "^2.0.2",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "close": "^0.0.1",
+    "crypto": "^1.0.1",
+    "delay": "^5.0.0",
+    "fs-extra": "^10.1.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "random-name": "^0.1.2",
+    "randomatic": "^3.1.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "set-tz": "^0.2.0",
+    "uuid": "^8.3.2"
+  }
+}
